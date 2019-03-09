@@ -2,7 +2,7 @@
 <head>
 <title>Hello World!</title>
 </head>
-<body style="background-color:red;">
+<body style="background-color:blue;">
 	<h1>Hello World!</h1>
 
 
